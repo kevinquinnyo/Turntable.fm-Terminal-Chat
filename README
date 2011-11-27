@@ -1,0 +1,10 @@
+Just lets you view your turntable.fm chat window in the terminal.
+
+Is it overkill to use tcpdump to scrape content? ;)
+
+Who cares, it works.  Feel free to improve..
+
+
+USAGE: chatter <your-username-here>
+
+-Kevin Quinn
